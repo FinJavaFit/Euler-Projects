@@ -25,7 +25,7 @@ public class Booleans1 {
             
             if ((i % 3)==0 || (i % 5)==0) {//The program then adds natural numbers that are only multiples of 3 or 5 for given number 
                 
-                eul[i] = i;
+                eul[i] = i;//the program could be done without the array. The array is created for the purpose of taking it a step further later on(if an idea came about).
                 sum += i;//program sums the numbers in the created array
                 
                 if (i == number - 1) {
@@ -37,7 +37,7 @@ public class Booleans1 {
             
            
         }
-        System.out.println(Arrays.toString(eul)); //Prints out the array
+        System.out.println(Arrays.toString(eul)); //Prints out the array as string.
         
         
     }
