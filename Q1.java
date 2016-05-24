@@ -27,19 +27,13 @@ public class Booleans1 {
                 
                 eul[i] = i;//the program could be done without the array. The array is created for the purpose of taking it a step further later on(if an idea came about).
                 sum += i;//program sums the numbers in the created array
-                
-                if (i == number - 1) {
-                    System.out.println(sum);//Only prints sum once loop is completed
-                }
- 
+               
             }
-
-            
-           
+ 
         }
+         System.out.println(sum);//Only prints sum once loop is completed
         System.out.println(Arrays.toString(eul)); //Prints out the array as string.
-        
-        
+  
     }
     
 }
