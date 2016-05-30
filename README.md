@@ -7,6 +7,8 @@ The motivation for starting Project Euler, and its continuation, is to provide a
 
 https://projecteuler.net/problem=1
 
+*Disclaimer: The problem branches/links include the answer (in Java) to the problems and explanations. If you do not wish do see my solutions, it is advised against opening the files.
+
 **************
 Q1 - Multiples of 3 and 5
 Problem 1
